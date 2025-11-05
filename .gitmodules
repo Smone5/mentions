@@ -1,6 +1,6 @@
 [submodule "mentions_backend"]
 	path = mentions_backend
-	url = ./mentions_backend
+	url = https://github.com/Smone5/mentions-backend.git
 [submodule "mentions_frontend"]
 	path = mentions_frontend
-	url = ./mentions_frontend
+	url = https://github.com/Smone5/mentions-frontend.git
