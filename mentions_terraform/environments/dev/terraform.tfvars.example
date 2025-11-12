@@ -1,0 +1,13 @@
+# Development Environment Variables
+# Copy this file to terraform.tfvars and fill in your values
+# NEVER commit terraform.tfvars to Git!
+
+project_id      = "mention001"
+region          = "us-central1"
+billing_account = "XXXXX-XXXXX-XXXXX"  # Your billing account ID
+org_id          = ""  # Optional: GCP Organization ID
+
+supabase_url    = "https://xxx.supabase.co"
+backend_image   = "gcr.io/mention001/backend:latest"
+
+

@@ -578,3 +578,5 @@ WHERE keyword = $1
 
 This ensures continuous, automatic discovery of new opportunities while respecting all rate limits! 🚀
 
+
+

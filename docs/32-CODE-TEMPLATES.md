@@ -302,3 +302,5 @@ class CreateResourceRequest(BaseModel):
 
 **Reference**: [30-CODE-CONVENTIONS.md](./30-CODE-CONVENTIONS.md), [20-REPOSITORY-STRUCTURE.md](./20-REPOSITORY-STRUCTURE.md)
 
+
+

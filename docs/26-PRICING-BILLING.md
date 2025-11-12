@@ -932,3 +932,5 @@ stripe listen --forward-to localhost:8000/webhooks/stripe
 7. **M4**: Add plan enforcement logic
 8. **M5**: Test checkout and webhook flows
 
+
+

@@ -1,0 +1,17 @@
+# Example Terraform Variables
+# Copy this file to terraform.tfvars and fill in your values
+# NEVER commit terraform.tfvars to Git!
+
+# GCP Configuration
+project_id      = "mentions-dev"
+region          = "us-central1"
+billing_account = "XXXXX-XXXXX-XXXXX"  # Your billing account ID
+org_id          = ""  # Optional: GCP Organization ID
+
+# Supabase Configuration
+supabase_url    = "https://xxx.supabase.co"
+
+# Backend Image
+backend_image   = "gcr.io/mentions-dev/backend:latest"
+
+
