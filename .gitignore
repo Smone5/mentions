@@ -81,5 +81,18 @@ out/
 temp/
 tmp/
 
+# Google Cloud credentials (never commit service account keys!)
+**/*-key.json
+**/*-credentials.json
+**/*-service-account.json
+~/.config/gcp/
+.gcp/
+gcp-credentials/
+
+# Ignore root markdown files
+/*.md
+!/README.md
+
+
 
 
