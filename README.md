@@ -62,7 +62,7 @@ This allows Cursor AI to work with the entire codebase while maintaining deploym
 
 ## License
 
-Proprietary - All rights reserved
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
